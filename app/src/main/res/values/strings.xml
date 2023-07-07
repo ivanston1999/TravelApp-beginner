@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+
+    <string name="destination_name">Nama Destinasi</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Pura Besakih</item>
+        <item>Bunaken</item>
+        <item>Candi Borobudur</item>
+        <item>Danau toba</item>
+        <item>Pulau Komodo</item>
+        <item>Nusa Penida</item>
+        <item>Parai Tenggiri</item>
+        <item>Raja Ampat</item>
+        <item>Gunung Rinjani</item>
+        <item>Wakatobi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Pura Agung Besakih adalah pura terbesar dan termegah di Bali. Pulau ini terletak di Desa Besakih, Kecamatan Rendang, berada di lereng sebelah barat daya Gunung Agung, gunung tertinggi di Bali. Pura Agung Besakih memiliki gaya arsitektur yang mengagumkan khas Bali dan berada di ketinggian 915 kaki di kaki Gunung Agung dengan memukau. Bangunan yang dibangun sejak abad ke-10 Masehi ini menjadi pusat kegiatan spiritual Hindu Dharma di Pulau Dewata. Dengan segala fitur yang dimiliki Pura Besakih, tidak aneh jika situs ini ditetapkan sebagai Situs Warisan Budaya UNESCO sejak selamat dari erupsi Gunung Agung pada tahun 1963. Akses dari Kota Denpasar untuk mencapai tempat ini berjarak sekitar 25 km ke arah utara dari Kota Semarapura, Kabupaten Klungkung. Perjalanan menuju Pura Besakih melewati panorama Bukit Jambul yang juga merupakan salah satu obyek dan daya tarik wisata Kabupaten Karangasem.</item>
+        <item>Destinasi wisata di Indonesia yang populer di mancanegara selanjutnya adalah Taman Laut Bunaken yang berada di Teluk Manado. Bunaken menjadi salah satu objek wisata di Indonesia yang mengundang decak kagum karena keindahan taman bawah lautnya yang sulit ditemukan di negara lain. Berkunjung ke Taman Laut Bunaken, Toppers akan menemukan keindahan kehidupan di dalam laut yang membuat mata kamu tidak bisa berhenti memandangnya. Di dalam taman laut ini terdapat 13 jenis terumbu karang yang didominasi dengan bebatuan laut. Selain itu, pemandangan yang paling menarik adalah adanya terumbu karang terjal vertikal yang menjulang ke bawah sedalam 25 – 50 meter. Tidak sampai di situ, mata kita akan dimanjakan dengan 91 jenis ikan yang ada di dalamnya. Tidak heran kalau Taman Laut Bunaken menjadi salah satu destinasi bagi para wisatawan terutama para pecinta laut. Apalagi tujuan wisata Indonesia favorit wisatawan asing ini menyediakan fasilitas untuk scuba diving dengan 20 titik penyelaman terbaik, di mana penyelam dapat kesempatan berenang di dasar laut dengan beragam biota laut yang menakjubkan.</item>
+        <item>Salah satu ikon wisata budaya Indonesia yang mendunia lainnya adalah Candi Borobudur. Sebagai candi Budha terbesar di dunia dengan luas tak kurang dari 123 X 123 meter, candi yang dibangun pada masa kerajaan Mataram kuno ini merupakan warisan budaya dan sejarah Indonesia yang terkenal akan arsitektur yang memukau. Setiap tahunnya, tak cuma wisatawan domestik tetapi banyak juga wisatawan asing yang tertarik untuk mengamati keindahan dari Candi Borobudur. Berbagai relief yang menceritakan mengenai berbagai ajaran dalam agama Budha dan perjalanan hidup Sidharta Gautama hingga mencapai pencerahan sempurna bisa Toppers temukan di tempat wisata favorit asal Indonesia. Candi Borobudur sendiri memiliki total tak kurang dari 504 arca Buddha dan 2.672 panel relief  ada dinding-dindingnya. Menakjubkan sekali, bukan?</item>
+        <item>Danau dengan keindahan yang tidak tertandingi ini merupakan danau vulkanik terbesar di Asia Tenggara dan terbesar kedua di dunia setelah Danau Victoria. Danau Toba sudah lama terkenal sebagai salah satu objek wisata Indonesia favorit yang sering dikunjungi sejak tahun 1980-an lho! Objek wisata Indonesia yang terkenal di dunia ini memiliki luas 1.145 kilometer persegi. Di tengah danau terdapat Pulau Samosir yang luasnya hampir sebanding dengan negara Singapura. Bisa bayangin kan Toppers, betapa megahnya Danau Toba ini? Selain terluas, danau ini juga termasuk salah satu danau terdalam di dunia dengan kedalaman sekitar 450 meter.</item>
+        <item>Destinasi wisata Indonesia yang tersohor di mata dunia selanjutnya adalah Pulau Komodo. Pulau yang berlokasi di Kepulauan Nusa Tenggara Timur ini merupakan rumah bagi ratusan Komodo, hewan endemik yang hanya ada di Indonesia. Selain bisa mengamati perilaku dan mengeksplorasi habitat dari hewan purba ini, Pulau Komodo juga menawarkan panorama alam yang menakjubkan. Salah satunya adalah pantai dengan pasir berwarna merah muda yang dikenal dengan nama “Pink Beach“. Pantai seperti ini hanya terdapat tujuh di seluruh dunia sehingga menjadikannya sebagai salah satu tujuan wisata Indonesia yang mendunia.</item>
+        <item>Pulau Bali, sudah tidak bisa dipungkiri lagi namanya memang merajalela ke seluruh dunia karena pemandangannya yang indah, budayanya yang masih kental terasa dan pantai nya yang eksotis. Saat Toppers berkunjung ke Bali jangan heran kalau banyak banget turis berlalu lalang di sana, bahkan beberapa ada yang menetap di Bali lho! Salah satu objek wisata di Bali yang populer di mata dunia saat ini adalah Nusa Penida. Tempat wisata Indonesia favorit ini adalah pilihan tepat untuk Toppers yang suka melakukan Island Hoping, dan menikmati keindahan bawah laut dengan snorkeling. Dengan panorama pantai yang indah Nusa Penida dan pulau-pulau kecil sekitarnya menawarkan pengalaman berbeda dan tentunya akan memanjakan Toppers yang juga memiliki hobi fotografi.</item>
+        <item>Pasti diantara kamu sudah pernah menyaksikan film populer Laskar Pelangi yang berlatar di Pulang Belitung, bukan? Selain alur ceritanya yang menarik, lokasi film ini juga banyak menyita perhatian penonton. Berbeda dengan pantai lain pada umumnya, Parai Tenggiri memiliki struktur pantai yang landai dengan air laut berwarna hijau toska serta pasir putihnya yang lembut. Ombak di pantai ini juga tenang sehingga menjadi salah satu alasan yang menarik bagi wisatawan yang senang berenang. Tidak hanya berenang, kamu juga bisa menikmati aktivitas memancing, parasailing, menyelam, snorkeling, dan masih banyak lainnya.</item>
+        <item>Surga dunia di Indonesia selanjutnya adalah kepulauan Raja Ampat yang terletak di Papua Barat dengan kekayaan laut terlengkap di bumi. Raja Ampat atau Empat Raja merupakan 4 pulau indah yang merupakan penghasil lukisan batu kuno. Empat pulau utama yang dimaksud adalah Waigeo, Salawati, Batanta, dan Misool. Nama-nama tersebut berasal dari mitos lokal dari warga di sekitar pulau Raja Ampat. Keindahan dan kemegahan dari objek wisata populer asal Indonesia ini mampu mengundang para wisatawan dari seluruh dunia untuk datang ke sini dan merasakan pengalaman sekaligus pemandangan yang tidak akan terlupakan. Dengan wilayah pulau mencakup hingga 4,6 juta hektar tanah dan laut, kita bisa menemukan 540 jenis karang, 1.511 spesies ikan, serta 700 jenis moluska. Perlu diketahui Toppers, menurut laporan The Nature Conservancy and Conservation International, ada sekitar 75% spesies laut dunia yang tinggal di pulau indah nan menakjubkan ini.</item>
+        <item>Di Nusa Tenggara Barat juga terdapat wisata yang tak kalah populer dan cocok bagi kamu yang suka mendaki, yakni Gunung Rinjani. Gunung ini adalah gunung berapi tertinggi kedua yang ada di Indonesia. Gunung Rinjani memiliki pemandangan terindah se-Asia dengan hamparan bunga edelweis dan Danau Segara Anak. Di tempat ini juga bisa menjadi spot menarik bagi para pendaki untuk mendirikan tenda, mandi air hangat, maupun memancing ikan. Namun sebelum itu, buatlah persiapan yang matang sebelum memutuskan untuk mendaki. Kamu juga perlu menyiapkan bekal mental dan stamina agar tidak menyerah di tengah jalan.</item>
+        <item>Taman Nasional Wakatobi juga merupakan salah satu tujuan wisata bawah laut yang populer dan mendunia. Dengan luas mencapai 13.900 km2, tujuan wisata terkenal asal Indonesia ini memiliki tak kurang dari 112 jenis terumbu karang yang bersimbiosis dengan ikan-ikan bawah laut sehingga menciptakan panorama bawah laut yang tiada tanding. Semuanya itu menjadikan Wakatobi sebagai salah satu surga menyelam bagi para traveler dari berbagai penjuru dunia.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/besakih</item>
+        <item>@drawable/bunaken</item>
+        <item>@drawable/candi_borobudur</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/komodo_island</item>
+        <item>@drawable/nusa_penida</item>
+        <item>@drawable/parai_tenggiri</item>
+        <item>@drawable/raja_ampat</item>
+        <item>@drawable/rinjani</item>
+        <item>@drawable/wakatobi</item>
+    </integer-array>
+
+    <string-array name="data_location">
+        <item>Karangasem, Bali</item>
+        <item>Wori, Sulawesi Utara</item>
+        <item>Magelang, Jawa Tengah</item>
+        <item>Samosir, North Sumatra</item>
+        <item>Manggarai Barat, NTT</item>
+        <item>Klungkung, Bali</item>
+        <item>Bangka, Belitung</item>
+        <item>Raja Ampat, Papua Barat</item>
+        <item>Lombok, NTB</item>
+        <item>Wakatobi, Sulawesi Tenggara</item>
+    </string-array>
+
+
+    <string-array name="data_price">
+        <item>Rp.575.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.230.000</item>
+        <item>Rp.2.900.000</item>
+        <item>Rp.3.750.000</item>
+        <item>Rp.600.000</item>
+        <item>Rp.50.000</item>
+        <item>Rp.1.700.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.2.500.000</item>
+    </string-array>
+
+    <string-array name="data_distance">
+        <item>70km from Denpasar</item>
+        <item>12km from Manado</item>
+        <item>17,9km from Magelang</item>
+        <item>26,3km from Samosir</item>
+        <item>69,3km from Manggarai Barat</item>
+        <item>17,6km from Klungkung</item>
+        <item>64,1km from Bangka</item>
+        <item>85.2km from Sorong</item>
+        <item>30.4km from Lombok</item>
+        <item>20km from Wakatobi City</item>
+
+    </string-array>
+
+</resources>
